@@ -1,0 +1,29 @@
+{
+  "name": "csv-mapper",
+  "version": "1.0.0",
+  "description": "Map CSV columns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Orozco <benoror@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio": "^0.20.0"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "node-table-to-csv": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benoror/csv-mapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benoror/csv-mapper/issues"
+  },
+  "homepage": "https://github.com/benoror/csv-mapper#readme"
+}
